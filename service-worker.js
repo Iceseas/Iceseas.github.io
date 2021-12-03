@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.5ee2340350d4408858d7d8131f845f64.js"
+  "/precache-manifest.841b423382f11a259b525ec834948966.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "uikiwi"});
